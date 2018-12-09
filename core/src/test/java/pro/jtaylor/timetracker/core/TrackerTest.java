@@ -17,7 +17,7 @@ import clinic.programming.timetracker.core.dao.TimeEntry;
 public class TrackerTest {
     @Autowired
     private Tracker tracker;
-
+//test
     @Test
     public void testMe() {
         assertNotNull(tracker);
